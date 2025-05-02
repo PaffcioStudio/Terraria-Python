@@ -1,0 +1,42 @@
+recipes:
+
+  cobblestone_block:
+    time: 1.0
+    ingredients:
+      - id: 2  # Kamień (STONE)
+        count: 1
+    result: 9  # Cobblestone (Czysto kosmetyczny crafting)
+
+  coal_to_torch:
+    time: 0.5
+    ingredients:
+      - id: 4  # Węgiel (COAL_ORE)
+        count: 1
+      - id: 6  # Drewno (WOOD)
+        count: 1
+    result: 4  # Na razie też COAL_ORE, bo brak ID pochodnej – tylko przykład koncepcji
+
+  cactus_block:
+    time: 1.0
+    ingredients:
+      - id: 7  # Piasek (SAND)
+        count: 1
+      - id: 6  # Drewno (WOOD)
+        count: 1
+    result: 8  # Kaktus (CACTUS)
+
+  grass_block:
+    time: 1.0
+    ingredients:
+      - id: 1  # Dirt
+        count: 1
+      - id: 3  # Grass
+        count: 1
+    result: 3  # Grass block (jeśli traktujesz trawę jako item drop)
+
+  stone_to_sand:
+    time: 1.0
+    ingredients:
+      - id: 2  # Kamień
+        count: 2
+    result: 7  # Piasek (czysto dla przykładu recyklingowego)

@@ -1,0 +1,218 @@
+[
+    {
+        "dir": "assets/bgm",
+        "file": "main_theme.wav",
+        "sha1": "a7d2c93008a8201368980d331fd0461deadbcda3",
+        "size": 7064142
+    },
+    {
+        "dir": "assets/blocks",
+        "file": "all_sheet(skip_this).jpg",
+        "sha1": "33c78b9c6a9e2419354493bcb454614da27e946f",
+        "size": 21427
+    },
+    {
+        "dir": "assets/blocks",
+        "file": "cactus.png",
+        "sha1": "29672ab3a93ed8405051c5fa64ee62570a07d251",
+        "size": 296
+    },
+    {
+        "dir": "assets/blocks",
+        "file": "cobblestone_block.png",
+        "sha1": "54ea6cbf3dc4c7c36e8de4f495802529cc8c28f0",
+        "size": 318
+    },
+    {
+        "dir": "assets/blocks",
+        "file": "dirt_block.png",
+        "sha1": "b07e8a2c32bb7f09744ff3ad3a6cc2d45298ebf8",
+        "size": 313
+    },
+    {
+        "dir": "assets/blocks",
+        "file": "grass_block.png",
+        "sha1": "de90f161d7f2b6436577ad6675b3ba997b6dd84b",
+        "size": 348
+    },
+    {
+        "dir": "assets/blocks",
+        "file": "sand_block.png",
+        "sha1": "4ac187969c956bcbb6721b90c01a65b088c9366f",
+        "size": 307
+    },
+    {
+        "dir": "assets/decorations",
+        "file": "torch.png",
+        "sha1": "910e7b1a35b86438c3ec566f3aafd6d41cb47b92",
+        "size": 232
+    },
+    {
+        "dir": "assets/gui/buttons",
+        "file": "blank.png",
+        "sha1": "699efbb2ee4028df364534e0af2a95acc29db16c",
+        "size": 135
+    },
+    {
+        "dir": "assets/gui/buttons",
+        "file": "refresh.png",
+        "sha1": "253f64ae1e1afc14afc8808d5b802cb66b09a391",
+        "size": 697
+    },
+    {
+        "dir": "assets/gui/buttons",
+        "file": "trash.png",
+        "sha1": "b3e661200566529ca1ad50769553b6eefedcb4b2",
+        "size": 367
+    },
+    {
+        "dir": "assets/items",
+        "file": "coin.png",
+        "sha1": "9412c695f0b28451208a16fe30b2ed4ca2e06c1d",
+        "size": 500
+    },
+    {
+        "dir": "assets/language",
+        "file": "english.yaml",
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "size": 0
+    },
+    {
+        "dir": "assets/language",
+        "file": "polski.yaml",
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "size": 0
+    },
+    {
+        "dir": "assets/menu",
+        "file": "background.png",
+        "sha1": "94780ba7b4976dbb70a04ae0879fe09f2561e8fe",
+        "size": 22893
+    },
+    {
+        "dir": "assets/mobs/slime_green",
+        "file": "slime_green.png",
+        "sha1": "7f4cd5df2e1f73d3975b4dfb22dc7dc3e85602a0",
+        "size": 908
+    },
+    {
+        "dir": "assets/ores",
+        "file": "coal_ore.png",
+        "sha1": "64967705da763e6c5fff6dda4b74ca73637187c4",
+        "size": 390
+    },
+    {
+        "dir": "assets/ores",
+        "file": "diamond_ore.png",
+        "sha1": "290374b2c041df83d960814119cc11332b66a3c9",
+        "size": 373
+    },
+    {
+        "dir": "assets/ores",
+        "file": "emerald_ore.png",
+        "sha1": "dcb0cf23702b36c0767266675170b3c345da993d",
+        "size": 380
+    },
+    {
+        "dir": "assets/ores",
+        "file": "gold_ore.png",
+        "sha1": "1fcc38482c6612766680dca5b6eefb3d33a1929b",
+        "size": 384
+    },
+    {
+        "dir": "assets/ores",
+        "file": "iron_ore.png",
+        "sha1": "40256605e5d89e6ef1a11c784fe9e3d68bd911ba",
+        "size": 392
+    },
+    {
+        "dir": "assets/plants",
+        "file": "grass_1.png",
+        "sha1": "bd67ae2bfe08b4277d40d226cd8126e51789c6d6",
+        "size": 264
+    },
+    {
+        "dir": "assets/plants",
+        "file": "mushroom.png",
+        "sha1": "fdfd906b640117bed6dc27e1cca3fa83c93efcdd",
+        "size": 229
+    },
+    {
+        "dir": "assets/plants",
+        "file": "mushroom_cave.png",
+        "sha1": "e52f9f237ff560d0e46f187f018adba97093d278",
+        "size": 823
+    },
+    {
+        "dir": "assets/plants",
+        "file": "sugar_cane.png",
+        "sha1": "66a8198bb57278daa367304ed6652f7138f64cb5",
+        "size": 267
+    },
+    {
+        "dir": "assets/player",
+        "file": "player.png",
+        "sha1": "cb2c733a15919c8054cef916ea130c69d218ff1e",
+        "size": 221
+    },
+    {
+        "dir": "assets/scripts",
+        "file": "worlds.txt",
+        "sha1": "f8a90dcf94e335908870b897438d05b372ef19ed",
+        "size": 5863
+    },
+    {
+        "dir": "assets/sfx",
+        "file": "coin.wav",
+        "sha1": "3a511b1683ac320a4b5b12cf649d1f49d7cdc7b4",
+        "size": 8785
+    },
+    {
+        "dir": "assets/sfx",
+        "file": "explosion.wav",
+        "sha1": "f2dac433d8303c0fa227c4fae997ed1f7b23ced8",
+        "size": 19977
+    },
+    {
+        "dir": "assets/sfx",
+        "file": "power_up.wav",
+        "sha1": "cbd711ced853c13f5ca2aced3f4ee5582526cc72",
+        "size": 15812
+    },
+    {
+        "dir": "assets/sfx/player",
+        "file": "hurt.wav",
+        "sha1": "309294bbdd839221e169a5a8f81b002b9abf22ce",
+        "size": 7676
+    },
+    {
+        "dir": "assets/sfx/player",
+        "file": "jump.wav",
+        "sha1": "27beba18bbdacf6d3cb7d7fb59135160363cdc48",
+        "size": 4059
+    },
+    {
+        "dir": "assets/sfx/ui",
+        "file": "click.wav",
+        "sha1": "068ac64ce6cab2be934905fb97f9b126eda59f7a",
+        "size": 1565
+    },
+    {
+        "dir": "assets/sky",
+        "file": "sky_day.png",
+        "sha1": "7d16fa60821b9193776ab9e2f2d7a93902124e51",
+        "size": 276231
+    },
+    {
+        "dir": "assets/sky",
+        "file": "sky_dusk.png",
+        "sha1": "4d20897f6d0ca54f162b85ccf852be77fa7505db",
+        "size": 237286
+    },
+    {
+        "dir": "assets/sky",
+        "file": "sky_night.png",
+        "sha1": "4a633b4c9b0b37600323e489e6702d39c2f71754",
+        "size": 113650
+    }
+]
